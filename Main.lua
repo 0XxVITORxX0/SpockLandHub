@@ -310,12 +310,12 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://gist.githubusercontent.com/0XxVITORxX0/7f530640e73e1dd309d5e080644398ef/raw/d2c829d1b99a3476e43afeb552485893232069f2/ui"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/0XxVITORxX0/SpockLandHub/refs/heads/main/README.md"))();
 local v15 = v14:CreateWindow({
     Title = "Spock Land Hub V1",
     SubTitle = "Version 1",
     TabWidth = 160,
-    Theme = "Dark",
+    Theme = "Darker",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
