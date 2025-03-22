@@ -95,7 +95,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://126407366294830",
+    Image = "rbxassetid://85630046695458",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -315,7 +315,7 @@ local v15 = v14:CreateWindow({
     Title = "Spock Land Hub V1",
     SubTitle = "Version 1",
     TabWidth = 160,
-    Theme = "Light",
+    Theme = "Dark",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
